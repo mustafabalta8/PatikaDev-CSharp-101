@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello");
 
 //Implicit Conversion (Bilinçsiz Dönüşüm)
 byte a = 5;
@@ -47,6 +46,15 @@ string s1 = "10", s2 = "20";
 int sayi1, sayi2;
 int toplam;
 
+decimal dec=258;
+float flo=(float)dec;
+
+Convert.ToDecimal(s1);
+sbyte.Parse(s1);
+Convert.ToByte(s1);
+decimal.Parse(s1);
+
+byte aasd= Convert.ToByte(s1);
 sayi1 = Convert.ToInt32(s1);
 sayi2 = Convert.ToInt32(s2);
 toplam = sayi1 + sayi2;
