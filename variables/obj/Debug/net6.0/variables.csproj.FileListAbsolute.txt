@@ -1,0 +1,30 @@
+C:\Users\Mustafa\Desktop\c# tutorial\variables\bin\Debug\net6.0\variables.exe
+C:\Users\Mustafa\Desktop\c# tutorial\variables\bin\Debug\net6.0\variables.deps.json
+C:\Users\Mustafa\Desktop\c# tutorial\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+C:\Users\Mustafa\Desktop\c# tutorial\variables\bin\Debug\net6.0\variables.dll
+C:\Users\Mustafa\Desktop\c# tutorial\variables\bin\Debug\net6.0\variables.pdb
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.dll
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\refint\variables.dll
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.pdb
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\c# tutorial\variables\obj\Debug\net6.0\ref\variables.dll
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\bin\Debug\net6.0\variables.exe
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\bin\Debug\net6.0\variables.deps.json
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\bin\Debug\net6.0\variables.dll
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\bin\Debug\net6.0\variables.pdb
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.dll
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\refint\variables.dll
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.pdb
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\Patika-C-Tutorial\variables\obj\Debug\net6.0\ref\variables.dll
