@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\Methods\obj\Debug\net6.0\ref\Methods.dll
