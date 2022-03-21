@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\bin\Debug\net6.0\RecursiveAndExtensionMethods.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\bin\Debug\net6.0\RecursiveAndExtensionMethods.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\bin\Debug\net6.0\RecursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\bin\Debug\net6.0\RecursiveAndExtensionMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\bin\Debug\net6.0\RecursiveAndExtensionMethods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\refint\RecursiveAndExtensionMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\RecursiveAndExtensionMethods.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\RecursiveAndExtensionMethods\obj\Debug\net6.0\ref\RecursiveAndExtensionMethods.dll
