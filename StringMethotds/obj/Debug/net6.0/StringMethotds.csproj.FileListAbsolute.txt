@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\bin\Debug\net6.0\StringMethotds.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\bin\Debug\net6.0\StringMethotds.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\bin\Debug\net6.0\StringMethotds.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\bin\Debug\net6.0\StringMethotds.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\bin\Debug\net6.0\StringMethotds.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\refint\StringMethotds.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\StringMethotds.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\StringMethotds\obj\Debug\net6.0\ref\StringMethotds.dll
