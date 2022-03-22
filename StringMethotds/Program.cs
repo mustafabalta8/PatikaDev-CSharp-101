@@ -52,9 +52,54 @@ Console.WriteLine(degisken.Replace("CSharp", "C#"));
 Console.WriteLine(degisken.Replace(" ", "*"));
 
 //Split
-string split1= degisken.Split(" ")[1];
+string split1 = degisken.Split(" ")[1];
 Console.WriteLine(split1);
 
 
 //SubString
 Console.WriteLine(degisken.Substring(4));
+
+Console.WriteLine("*** ALIŞTIRMA ***");
+
+/* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
+int N = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i < N; i++)
+{
+    string S = Convert.ToString(Console.ReadLine());
+    MyFunction(S);
+
+}
+
+void MyFunction(string S)
+{
+
+    char[] ch = new char[S.Length];
+    for (int i = 0; i < S.Length; i++)
+    {
+        ch[i] = S[i];
+    }
+
+    List<char> evenList = new List<char>();
+    List<char> oddList = new List<char>();
+    for (int i = 0; i < S.Length; i++)
+    {
+        if (i % 2 == 0)
+        {
+            //Console.Write(ch[i]);
+            evenList.Add(ch[i]);
+        }
+        //Console.Write(" ");
+        if (i % 2 != 0)
+        {
+            //Console.Write(ch[i]);
+            oddList.Add(ch[i]);
+        }
+
+    }
+    evenList.ForEach(item => Console.Write(item));
+    Console.Write(" ");
+    oddList.ForEach(item => Console.Write(item));
+
+
+}
