@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\bin\Debug\net6.0\ArrayLists.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\bin\Debug\net6.0\ArrayLists.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\bin\Debug\net6.0\ArrayLists.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\bin\Debug\net6.0\ArrayLists.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\bin\Debug\net6.0\ArrayLists.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\refint\ArrayLists.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ArrayLists.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ArrayLists\obj\Debug\net6.0\ref\ArrayLists.dll
