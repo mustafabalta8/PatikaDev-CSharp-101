@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\bin\Debug\net6.0\DatetimeAndMath.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\bin\Debug\net6.0\DatetimeAndMath.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\bin\Debug\net6.0\DatetimeAndMath.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\bin\Debug\net6.0\DatetimeAndMath.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\bin\Debug\net6.0\DatetimeAndMath.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\refint\DatetimeAndMath.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\DatetimeAndMath.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\DatetimeAndMath\obj\Debug\net6.0\ref\DatetimeAndMath.dll
