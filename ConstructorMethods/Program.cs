@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace Classes 
+namespace ConstructorMethods
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Calisanlar calisan = new Calisanlar();
-            calisan.Ad = "Mustafa";
+            Calisanlar calisan = new Calisanlar("Mustafa","Balta",18,"IK");
+            /*calisan.Ad = "Mustafa";
             calisan.Soyad = "Balta";
             calisan.No = 11;
-            calisan.Departman = "IT";
+            calisan.Departman = "IT";*/
             calisan.CalisanBilgileri();
 
             Console.WriteLine("******");
@@ -20,6 +20,11 @@ namespace Classes
             calisan2.No = 33;
             calisan2.Departman = "Pazarlama";
             calisan2.CalisanBilgileri();
+
+            Console.WriteLine("******");
+            Calisanlar calisan3 = new Calisanlar("Temel", "Yorulmaz");
+            calisan3.CalisanBilgileri();
+            
         }
     }
 
@@ -30,6 +35,20 @@ namespace Classes
         public int No;
         public string Departman;
 
+        public Calisanlar(string ad, string soyad, int no, string departman)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Departman = departman;
+
+        }
+        public Calisanlar() { }
+
+        public Calisanlar(string ad, string soyad){
+            this.Ad=ad;
+            this.Soyad=soyad;
+        }
 
         public void CalisanBilgileri()
         {

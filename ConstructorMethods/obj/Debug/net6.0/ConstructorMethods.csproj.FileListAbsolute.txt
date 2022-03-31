@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.exe
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.deps.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.runtimeconfig.json
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.AssemblyInfo.cs
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\refint\ConstructorMethods.dll
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.pdb
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.genruntimeconfig.cache
+C:\Users\Mustafa\Documents\GitHub\PatikaDev-CSharp-101\ConstructorMethods\obj\Debug\net6.0\ref\ConstructorMethods.dll
