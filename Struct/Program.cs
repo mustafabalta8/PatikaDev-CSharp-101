@@ -49,6 +49,7 @@ namespace Struct
             KisaKenar = kisaKenar;
             UzunKenar = uzunKenar;
         }
+        //public Dikdortgen_s(){}
 
         public long AlanHesaplama()
         {

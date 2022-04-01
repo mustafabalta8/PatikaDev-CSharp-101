@@ -35,9 +35,9 @@ namespace Encapsulation
             set { isim = value; }
         }
 
-        public string Soyisim { get => soyisim; set => soyisim = value; }
-        public int OgrenciNo { get => ogrenciNo; set => ogrenciNo = value; }
-        public int Sinif
+        public string Soyisim { get => soyisim; set => soyisim = value; } //this is called property
+        public int OgrenciNo { get => ogrenciNo; set => ogrenciNo = value; } //this is called property
+        public int Sinif  //this is called property
         {
             get => sinif;
             set
