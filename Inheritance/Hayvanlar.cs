@@ -6,6 +6,12 @@ namespace Inheritance
         {
             Console.WriteLine("Hayvanlar sürüler halinde hareket eder.");
         }
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();// üst sınıftaki komutları çalıştırır.
+            Console.WriteLine("hayvanlar uyaranlara tepki verir.");
+
+        }
     }
 
     public class Kuslar : Hayvanlar
@@ -14,6 +20,7 @@ namespace Inheritance
         {
             base.SuruHalindeHareket();
             base.Beslenme();
+            base.UyaranlaraTepki();
 
         }
         public void Ucmak()
