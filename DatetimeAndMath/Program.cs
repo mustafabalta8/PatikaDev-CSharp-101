@@ -24,6 +24,8 @@ Console.WriteLine(DateTime.Now.AddSeconds(30));
 Console.WriteLine(DateTime.Now.AddMonths(5));
 Console.WriteLine(DateTime.Now.AddYears(5));
 Console.WriteLine(DateTime.Now.AddMilliseconds(100));
+//Convert.ToDateTime()
+//DateTime.Parse()
 
 //DateTime Format
 Console.WriteLine(DateTime.Now.ToString("dd")); //11
