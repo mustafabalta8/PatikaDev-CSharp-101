@@ -18,10 +18,6 @@ namespace Struct
             Console.WriteLine("Struct Alan Hesaplama: {0},", d_struct.AlanHesaplama());
 
 
-
-
-
-
         }
     }
     class Dikdortgen
